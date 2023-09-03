@@ -1,4 +1,4 @@
-from main.py import greet
+from main.py import basic_two_calculation
 
 def test_main():
     assert basic_two_calculation(1,2) == 3
